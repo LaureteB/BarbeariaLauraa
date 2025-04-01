@@ -6,4 +6,10 @@
     text-transform: uppercase;
     text-align: center;
     color: #700000;
+    background-color: antiquewhite;
+}
+
+.outrostitulo{
+    text-align: center;
+    color: #700000;
 }
