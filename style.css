@@ -25,13 +25,12 @@ body{
 }
 .principal{
     text-align: center;
-    background-color: rgb(255, 225, 225);
+    background-color:gainsboro
     padding: 100px;
     margin: 0px;
 }
 .beneficios{
     text-align: center;
-    background-color: rgb(255, 225, 225);
-    padding: 10px;
+    background-color:gainsboro
     margin: 0px;
 }
