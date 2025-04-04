@@ -25,6 +25,11 @@ body{
 }
 .principal{
     text-align: center;
-
-
+    background-color: cornsilk;
+    padding: 40px;
+}
+.beneficios{
+    text-align: center;
+    background-color: cornsilk;
+    padding: 30px;
 }
