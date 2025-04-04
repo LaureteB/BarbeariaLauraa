@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
+    font-family: sans-serif;
 }
 
 #banner{
@@ -21,4 +22,9 @@ body{
     color: #700000;
     background-color: antiquewhite;
     margin: 0px;
+}
+.formato{
+    text-align: center;
+
+
 }
