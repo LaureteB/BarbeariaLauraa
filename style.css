@@ -25,11 +25,13 @@ body{
 }
 .principal{
     text-align: center;
-    background-color: cornsilk;
+    background-color: rgb(255, 253, 245);
     padding: 40px;
+    margin: 0px;
 }
 .beneficios{
     text-align: center;
-    background-color: cornsilk;
+    background-color: rgb(255, 253, 245);
     padding: 30px;
+    margin: 0px;
 }
