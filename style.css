@@ -11,7 +11,7 @@ body{
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
-    color: #8d642e;
+    color: #52350f;
     background-color: rgb(165, 165, 165);
     padding: 40px;
     margin: 0px;
@@ -19,7 +19,7 @@ body{
 
 .titulo2{
     text-align: center;
-    color: #700000;
+    color: #52350f;
     background-color: rgb(165, 165, 165);
     margin: 0px;
 }
