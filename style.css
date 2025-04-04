@@ -1,14 +1,14 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
 }
 
-#banner{
-    width:100%
+#banner {
+    width: 100%
 }
 
-.titulo-principal{
+.titulo-principal {
     text-transform: uppercase;
     text-align: center;
     color: #52350f;
@@ -17,20 +17,38 @@ body{
     margin: 0px;
 }
 
-.titulo2{
+.titulo2 {
     text-align: center;
     color: #52350f;
     background-color: rgb(165, 165, 165);
     margin: 0px;
 }
-.principal{
+
+.principal {
     text-align: center;
-    background-color:rgb(226, 226, 226);
+    background-color: rgb(226, 226, 226);
     padding: 100px;
     margin: 0px;
 }
-.beneficios{
+
+.beneficios {
     text-align: center;
-    background-color:rgb(226, 226, 226);
+    background-color: rgb(226, 226, 226);
     margin: 0px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+
+.itens {
+    font-style: italic;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
