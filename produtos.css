@@ -15,8 +15,9 @@ nav {
     top: 110px;
     right: 0;
 }
+
 nav ul li{
-    color: red
+    color: red;
     display: inline;
     margin: 0 0 0 15px;
 }
