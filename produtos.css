@@ -10,7 +10,7 @@ header{
 }
 nav{
     color: #1956c7;
-    position:static;
+    position:sticky;
     top: 110px;
     right: 0;
 }
