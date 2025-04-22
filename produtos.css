@@ -10,7 +10,7 @@ header{
 }
 nav{
     color: #1956c7;
-    position: absolute;
+    
     top: 110px;
     right: 0;
 }
@@ -28,7 +28,10 @@ nav a {
     text-decoration: none;
 }
 
-
+nav a:hover{
+    color: #2470c7;
+    text-decoration: underline;
+}
 
 .produtos{
     width: 940px;
