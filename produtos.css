@@ -16,21 +16,21 @@ nav {
     right: 0;
 }
 nav ul li{
-    color: #1956c7;
+    color: red
     display: inline;
     margin: 0 0 0 15px;
 }
 
 nav a { 
     text-transform: uppercase;
-    color: #0000;
+    color: black;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
 }
 
 nav a:hover{
-    color: red;
+    color: purple;
     text-decoration: underline;
 }
 
