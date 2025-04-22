@@ -10,24 +10,6 @@ header{
 }
 
 
-nav li{
-    display: inline;
-    margin: 0 0 0 15px;
-}
-
-nav a { 
-    text-transform: uppercase;
-    color: #0000;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
-}
-
-nav a:hover{
-    color: #2470c7;
-    text-decoration: underline;
-}
-
 .produtos{
     width: 940px;
     margin: 0 auto;
