@@ -9,7 +9,7 @@ header{
     margin: 0 auto;
 }
 
-nav {
+.caixa nav {
     color: #1956c7;
     position:sticky;
     top: 110px;
