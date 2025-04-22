@@ -28,10 +28,7 @@ nav a {
     text-decoration: none;
 }
 
-nav a:hover{
-    color: #2470c7;
-    text-decoration: underline;
-}
+
 
 .produtos{
     width: 940px;
