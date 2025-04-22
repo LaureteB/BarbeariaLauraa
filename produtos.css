@@ -9,7 +9,7 @@ header{
     margin: 0 auto;
 }
 nav{
-    position: absolute;
+    position: center;
     top: 110px;
     right: 0;
 }
