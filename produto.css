@@ -1,0 +1,15 @@
+.titulo-principal {
+    text-transform: uppercase;
+    text-align: center;
+    color: #0a1b31;
+    background-color: rgb(214, 214, 214);
+    padding: 10px;
+    margin: 0px;
+}
+
+.buton{
+    text-transform: uppercase;
+    text-align: center;
+    color: #0a1b31;
+    background-color: rgb(214, 214, 214);
+}
