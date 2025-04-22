@@ -9,13 +9,13 @@ header{
     margin: 0 auto;
 }
 
-nav{
+nav {
     color: #1956c7;
     position:sticky;
     top: 110px;
     right: 0;
 }
-nav li{
+nav ul li{
     color: #1956c7;
     display: inline;
     margin: 0 0 0 15px;
@@ -23,7 +23,7 @@ nav li{
 
 nav a { 
     text-transform: uppercase;
-    color: #0000;
+    color: black;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
@@ -31,7 +31,6 @@ nav a {
 
 nav a:hover{
     color: red;
-    text-decoration: underline;
 }
 
 .produtos{
