@@ -50,11 +50,11 @@ nav a:hover{
 }
 
 .produtos li:hover{
-    border-color: #C78C19;
+    border-color: #1956c7;
 }
 
 .produtos li:active{
-    border-color: #088C19;
+    border-color: #c3d333;
 }
 
 .produtos li:hover h2{
