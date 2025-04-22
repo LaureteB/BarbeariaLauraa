@@ -8,6 +8,7 @@ header{
     width: 940px;
     margin: 0 auto;
 }
+
 nav{
     color: #1956c7;
     position:sticky;
@@ -29,7 +30,7 @@ nav a {
 }
 
 nav a:hover{
-    color: #2470c7;
+    color: red;
     text-decoration: underline;
 }
 
@@ -90,11 +91,11 @@ footer{
     margin: 20px 0 0;
 }
 
-.centro{ 
+/* .centro{ 
     text-align: center;
     border-image: none;
     
 }
 .textocentro{
     text-align: center;
-}
+} */
