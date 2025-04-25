@@ -13,7 +13,7 @@ body {
     text-align: center;
     color: #0a1b31;
     background-color: rgb(214, 214, 214);
-    padding: 10px;
+    padding: 20px;
     margin: 0px;
 }
 
@@ -45,7 +45,6 @@ ul {
     font-style:normal;
 }
 
-
 .itens {
     font-style: italic;
 }
@@ -53,12 +52,3 @@ ul {
 .imagembeneficios {
     width: 50%;
 }
-
-form{
-    width: 50%;
-    margin: 50px auto; /* centraliza horizontalmente e adiciona margem superior */
-    padding: 20px;
-    border: 1px solid  #f0f8ff;
-    border-radius: 8px;
-    background-color:  #f0f8ff;
-  }
