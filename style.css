@@ -11,10 +11,11 @@ body {
 .titulo-principal {
     text-transform: uppercase;
     text-align: center;
+    text-rendering: 40%;
     color: #0a1b31;
     background-color: #f0f8ff;
     padding: 50px;
-    margin: 10px;
+    margin: 0px;
 }
 
 .titulo2 {
