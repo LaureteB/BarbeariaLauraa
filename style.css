@@ -12,7 +12,7 @@ body {
     text-transform: uppercase;
     text-align: center;
     color: #0a1b31;
-    background-color: rgb(214, 214, 214);
+    background-color: #f0f8ff;
     padding: 20px;
     margin: 0px;
 }
@@ -26,7 +26,7 @@ body {
 
 .principal {
     text-align: center;
-    background-color:  #f0f8ff;
+    background-color: #f0f8ff;
     padding:40px;
     margin: 0px;
 }
